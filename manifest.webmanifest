@@ -1,0 +1,20 @@
+{
+  "name": "PowerBand Coach — Allenamento casa",
+  "short_name": "PowerBand",
+  "description": "Allenamenti A/B/C con elastici, ripetizioni, recuperi e storico, anche offline.",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0f15",
+  "theme_color": "#0c0f15",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
